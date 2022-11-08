@@ -1,0 +1,30 @@
+img {
+    height: 400px;
+    width: 800px;
+}
+
+th, td {
+    border: 1px solid black;
+}
+ ul {
+list-style: none;
+padding-left: 0;
+ }
+ li{
+    display: inline-block;
+ }
+a{
+   margin: 5px, 10px, 5px, 0;
+   background-color: lightskyblue;
+   padding: 5px, 10px;
+   text-decoration: none;
+ }
+ a:hower{
+    background-color: aquamarine;
+ }
+ .hero-image{
+    background-image: url('metro.jpg');
+    height: 200px;
+    background-position: center;
+    object-fit: contain;
+ }
