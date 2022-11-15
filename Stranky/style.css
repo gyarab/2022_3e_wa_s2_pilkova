@@ -13,15 +13,7 @@ padding-left: 0;
  li{
     display: inline-block;
  }
-a{
-   margin: 5px, 10px, 5px, 0;
-   background-color: lightskyblue;
-   padding: 5px, 10px;
-   text-decoration: none;
- }
- a:hower{
-    background-color: aquamarine;
- }
+
  .hero-image{
     background-image: url('metro.jpg');
     height: 200px;
